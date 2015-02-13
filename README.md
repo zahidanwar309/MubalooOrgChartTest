@@ -4,7 +4,7 @@ Android native test project.
 
 to run the test use the following command
 
-adb shell am instrument -w com.mubaloo.org.chart.test.tests/android.test.InstrumentationTestRunner
+"adb shell am instrument -w com.mubaloo.org.chart.test.tests/android.test.InstrumentationTestRunner"
 
 Four tests in total alone with one UI test.
 
