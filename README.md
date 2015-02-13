@@ -2,7 +2,7 @@
 Android native test project.
 
 
-to run the test use the following command
+to run the test project, use the following command
 
 "adb shell am instrument -w com.mubaloo.org.chart.test.tests/android.test.InstrumentationTestRunner"
 
@@ -16,6 +16,6 @@ TestFragmentStack - To test Fragment push and pop methods (Functional test)
 
 TestImageDownloader - To test remote image download and set on ImageView (not completed yet)
 
-TestEmployeeChartActivity - To test UI activity
+TestEmployeeChartActivity - To test List of enployees UI
 
 
